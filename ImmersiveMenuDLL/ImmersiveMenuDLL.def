@@ -1,0 +1,4 @@
+EXPORTS
+	ImmersiveTrackPopupMenu
+	DisableImmersiveMenu
+	EnableImmersiveMenu
